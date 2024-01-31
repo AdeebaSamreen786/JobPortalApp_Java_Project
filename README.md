@@ -1,2 +1,2 @@
 # JobPortalApp_Java_Project
-JobPortalApp Java_Project
+This is a JobPortalApp Java Project.
